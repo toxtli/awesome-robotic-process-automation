@@ -26,7 +26,7 @@ You can find the credits for the authors in the header of each Jupyter Notebook.
 
 - [RPA - Crawlers - Beautiful Soup 1](https://www.google.com/url?q=https://colab.research.google.com/drive/1BqPWBkA-7905qVkDxaJxkpXIqewSUPJm&sa=D&ust=1571146176654000)
 
-- [RPA - Crawlers - Selenium 1](https://www.google.com/url?q=https://colab.research.google.com/drive/1JLtPjMaHeWn3lz3aKgJFD9eLKMt9-0Bs&sa=D&ust=1571146176654000)& [2](https://www.google.com/url?q=https://colab.research.google.com/drive/1_jkwnpbMtFYayos48tfA3o3wiftTQi2M&sa=D&ust=1571146176654000)
+- [RPA - Crawlers - Selenium 1](https://www.google.com/url?q=https://colab.research.google.com/drive/1JLtPjMaHeWn3lz3aKgJFD9eLKMt9-0Bs&sa=D&ust=1571146176654000) & [2](https://www.google.com/url?q=https://colab.research.google.com/drive/1_jkwnpbMtFYayos48tfA3o3wiftTQi2M&sa=D&ust=1571146176654000)
 
 ## Chatbots
 
@@ -34,7 +34,7 @@ You can find the credits for the authors in the header of each Jupyter Notebook.
 
 - [RPA - Chatbots - DialogFlow 1](https://www.google.com/url?q=https://colab.research.google.com/drive/1ts_vWaHxUQBG0dE0WwN-gN09NbW8miwn&sa=D&ust=1571146176655000)
 
-- [RPA - Chatbots - Deep Learning 1](https://www.google.com/url?q=https://colab.research.google.com/drive/19_w26whJJMxW8sjsUp_B43ZJMzQIWWoh&sa=D&ust=1571146176655000)& [2](https://www.google.com/url?q=https://colab.research.google.com/drive/1dTwMTF9xW5xB4T8FrLlFVhEqdH4C6vfS&sa=D&ust=1571146176655000)
+- [RPA - Chatbots - Deep Learning 1](https://www.google.com/url?q=https://colab.research.google.com/drive/19_w26whJJMxW8sjsUp_B43ZJMzQIWWoh&sa=D&ust=1571146176655000) & [2](https://www.google.com/url?q=https://colab.research.google.com/drive/1dTwMTF9xW5xB4T8FrLlFVhEqdH4C6vfS&sa=D&ust=1571146176655000)
 
 ## Contribute
 
